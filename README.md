@@ -1,2 +1,2 @@
 # practice
-Practice Angular and Meteor.
+Practice Angular 10.
